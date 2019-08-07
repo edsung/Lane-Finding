@@ -11,7 +11,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![solidWhiteLines](/example_images/solidWhiteCurve.jpg)
+![solidWhiteLines](https://github.com/edsung/Lane-Finding/blob/master/example_images/solidWhiteCurve.jpg)
 
 ---
 
